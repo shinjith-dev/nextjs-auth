@@ -22,10 +22,6 @@ export type TRegister = {
   confirmPassword?: string;
 };
 
-export type TGauth = {
-  credential?: string;
-};
-
 interface FileBlob extends Blob {
   name?: string;
 }
