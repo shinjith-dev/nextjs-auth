@@ -1,7 +1,16 @@
 
 # Next.js Auth
 
-Nextjs boilerplate for Nextjs v13+. With authentication
+Nextjs boilerplate for Nextjs v13+. With authentication and user management using cookie.
+
+## Features
+
+- Context API instead of external libraries
+- Custom hooks approach
+- Cookie storage
+- Axios instance setup
+- TypeScript
+
 
 ## Installation
 
